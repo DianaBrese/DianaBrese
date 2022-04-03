@@ -1,4 +1,4 @@
-### Olá devs! Eu sou a Diana Benson! 💻
+### Olá devs! 💻
 
 
 - 🔭 Estou trabalhando com Front-End
