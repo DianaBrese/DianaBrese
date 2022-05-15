@@ -1,11 +1,5 @@
 ### Olá devs! 💻
 
-
-- 🔭 Estou trabalhando com Front-End
-- 🌱 Atualmente estou estudando Javascript 
-- 📫 Você pode me contactar no meu instagram @DianaBrese
-- 😄 Pronomes: Ela/Dela
-
 <div align="center">
   <a href="https://github.com/DianaBrese">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DianaBrese&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
