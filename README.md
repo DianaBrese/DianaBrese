@@ -1,5 +1,8 @@
 ### Olá devs! 💻
-
+<div align="center">
+  <a href="https://github.com/DianaBrese">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaBrese&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Diana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
