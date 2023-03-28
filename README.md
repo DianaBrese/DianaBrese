@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaBrese&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Diana-CSS" height="150" width="170" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind">
+  <img align="center" alt="Diana-CSS" height="180" width="200" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind">
 </div>
   
   ##
